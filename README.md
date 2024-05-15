@@ -1,5 +1,5 @@
 
-# Selenium Python Automation Project with Pytest and Page Object Model (POM)
+# Selenium Python Automation Project
 
 This project demonstrates automated testing of the [OrangeHRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) website using Selenium with Python and pytest framework. The tests are organized using the Page Object Model (POM) design pattern for improved maintainability and readability.
 
